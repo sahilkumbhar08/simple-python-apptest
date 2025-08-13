@@ -3,7 +3,6 @@
   "framework": null,
   "functions": {
     "api/index.py": {
-      "handler": "api/index.app",
       "runtime": "python@3.10"
     }
   },
