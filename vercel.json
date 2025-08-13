@@ -3,7 +3,7 @@
   "framework": null,
   "functions": {
     "api/index.py": {
-      "runtime": "python-3.10"
+      "runtime": "python-3.9"  // Switching to python-3.9 for broader compatibility
     }
   },
   "routes": [
