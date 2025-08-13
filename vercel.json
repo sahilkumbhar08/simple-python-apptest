@@ -3,7 +3,7 @@
   "framework": null,
   "functions": {
     "api/index.py": {
-      "runtime": "vercel-python@3.10"
+      "runtime": "vercel-python@0.2.0"  // Updated to match Vercel's Python runtime package
     }
   },
   "routes": [
